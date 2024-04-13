@@ -1,0 +1,56 @@
+table {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: rgb(234, 0, 255);
+  border-radius: 4px;
+  width: 54%;
+  background: linear-gradient(to right, #b4d8e8, #e3a6f3);
+}
+.img1 {
+  margin-top: -22%;
+  margin-left: -3%;
+}
+th {
+  border-bottom: 0.5px dashed rgb(234, 0, 255);
+}
+.tdd {
+  border-bottom: 0.5px dashed rgb(234, 0, 255);
+}
+#a {
+  width: 22%;
+}
+#b {
+  width: 10%;
+}
+#c {
+  width: 35%;
+}
+ul {
+  list-style-type: none;
+}
+
+#b {
+  margin-top: -80px;
+}
+#f {
+  margin-top: 40px;
+}
+.img1 {
+  width: 60px;
+  height: 60px;
+  margin-top: -5px;
+  padding: 0;
+  border: 0;
+}
+p {
+  margin-bottom: 60px;
+  padding: 0;
+  border: 0;
+}
+.tf {
+  vertical-align: top;
+}
+
+br {
+  padding: 10px;
+}
